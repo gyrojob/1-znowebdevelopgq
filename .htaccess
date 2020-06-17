@@ -1,6 +1,6 @@
 RewriteEngine on
 
-RewriteRule ^(.*)\$ 404.php [nc]
+RewriteRule ^(.*)\$ 404.html [nc]
 ErrorDocument 404 /404.html
 
 
